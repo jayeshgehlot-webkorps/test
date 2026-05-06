@@ -1,2 +1,2 @@
-console.log("script");
+console.log("scr loaded");
 
